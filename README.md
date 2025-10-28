@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently  **learning**
 
-- 📫 <h3 align="left">How to reach me</h3> **itisme.itachi@gmail.com**
+-<h3 align="left"> 📫 How to reach me</h3> **itisme.itachi@gmail.com**
 
 
 <p align="left">
