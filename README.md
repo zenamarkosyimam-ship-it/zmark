@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenamarkosyimam-ship-it" alt="zenamarkosyimam-ship-it" /></a> </p>
 
-- 🔭 I’m currently working **learning**
+- 🔭 I’m currently  **learning**
 
 - 📫 How to reach me **itisme.itachi@gmail.com**
 
