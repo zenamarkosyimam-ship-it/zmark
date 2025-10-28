@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently  **learning**
 
-- 📫 How to reach me **itisme.itachi@gmail.com**
+- 📫 <h3 align="left">How to reach me</h3> **itisme.itachi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
